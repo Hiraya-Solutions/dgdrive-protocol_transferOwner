@@ -1,0 +1,12 @@
+# Ignore credentials
+credentials/*.json
+
+# Ignore environment files
+.env
+
+# Ignore logs
+*.log
+
+# Ignore node_modules
+node_modules/
+
