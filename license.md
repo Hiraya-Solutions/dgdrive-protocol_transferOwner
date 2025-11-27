@@ -20,7 +20,7 @@ The following notices are provided to comply with their terms:
    Each dependency included via npm retains its original license. 
    Refer to the `package.json` and `node_modules/<package>/LICENSE` files for details.
 
-Drive Transfer License (Custom Proprietary License)
+Streamlined GDrive Ownership Transfer Webapp (Custom Proprietary License)
 Copyright (c) 2025 Louie Pagtalunan
 
 All rights reserved.
