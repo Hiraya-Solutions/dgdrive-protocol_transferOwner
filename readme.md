@@ -25,13 +25,13 @@ Auth: OAuth 2.0, Google Identity Services
 FILE STRUCTURE
 --------------
 drive-transfer/
-├── app.js (main server)
-├── package.json
-├── credentials/
-│   └── owner_oauth.json
-├── tokens/ (auto-generated)
-└── public/
-    └── index.html
+- app.js (main server)
+- package.json
+- credentials/
+    - owner_oauth.json
+- tokens/ (auto-generated)
+- public/
+    - index.html
 
 HOW TO USE
 ----------
